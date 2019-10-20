@@ -1,0 +1,23 @@
+#include<stdio.h>
+void main()
+{
+int t=0;
+int sp;
+for(int i=1;i<=5;i++)
+{
+for(int j=5;j>=i;j--)
+{
+printf("*");
+}
+for(int sp=0;sp<t;sp++)
+{
+ printf(" ");
+}
+t+=2;
+for(int k=5;k>=i;k--)
+{
+ printf("*");
+}
+printf("\n");
+}
+}
