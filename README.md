@@ -1,1 +1,1 @@
-# This was my 1st PR for the HackOctober Fest 2019 .
+ This was our 1st PR for the HackOctober Fest 2019 .
